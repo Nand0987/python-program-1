@@ -61,7 +61,7 @@
 # # print(f_name,m_name,l_name,end="""") 
 # l2=[f_name,m_name,l_name]
 
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 d1={110:'Rahul',105:'paypal',106:'Arjun'}
 print(sum(d1))
 
