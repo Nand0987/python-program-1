@@ -1,0 +1,29 @@
+Problem:
+Take 5 numbers and store them in a list. Print the list in reverse order. [::-1]
+
+If else
+
+Given a list of marks, count how many students scored:
+* above 75
+* below 40
+
+Given a list of  nunmbers find how many of them are positive and how many of them are -ve.
+
+
+Tuple : immutable, element access, 
+
+Swap function using tuple
+
+Exercise 1
+Create a tuple of 5 cities and:
+* print first and last city
+* check if "Delhi" exists
+
+Course enrolment : 
+ 2 sets are given first set contains roll number of students in python course, second is set of students in Java course	
+
+1. Find all students in all courses combined
+2. Find students in python only course
+3. Find all students in java course only
+4. Find all students that take both courses.
+5. Check if the two sets are disjoint..
