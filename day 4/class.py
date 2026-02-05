@@ -26,6 +26,9 @@
 # print(s_student.s_name)
 # print(f_student.s_age)
 
+class Student
+
+
 
 
 
